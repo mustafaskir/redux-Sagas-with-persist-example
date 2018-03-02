@@ -2,6 +2,4 @@ Redux with [redux-saga](https://github.com/redux-saga/redux-saga) & [redux-persi
 
 I just create an Api which fetch a collecion of data from [random user](https://randomuser.me/)
 
-[twitter Account](https://twitter.com/skirmustafa) 
-
 ![alt text](images/ezgif-4-ef54a97457.gif)
